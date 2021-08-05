@@ -22,5 +22,5 @@ Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as re
 
 
 ### Tela de execução
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-02_ComponentizacaoDaAplicacao/blob/main/execucao.png" width="640" height="520">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-02_ComponentizacaoDaAplicacao/blob/main/execucao.png" width="640" height="525">
 
